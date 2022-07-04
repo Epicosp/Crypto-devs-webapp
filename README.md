@@ -3,10 +3,10 @@ A draft web application, built to demonstrate how hiring freelance crypto develo
 
 ## Ganache
 ganache allows the developer to test and validate transactions on a locally hosted test blockchain. Test transactions have been sent to each of the hypothetical developers via the webapp.
-![transactions](images/transactions.png)
+![transactions](Images/transactions.png)
 
 ---
 
 wallet addresses confirm the ETH balance after transactions have been sent.
 
-![addresses](images/addresses.png)
+![addresses](Images/addresses.png)

@@ -86,10 +86,10 @@ from crypto_wallet import generate_account, get_balance, send_transaction
 
 # Database of Fintech Finder candidates including their name, digital address, rating and hourly cost per Ether.
 candidate_database = {
-    "Lane": ["Lane", "0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0", "4.3", .20, "Images/lane.jpeg"],
-    "Ash": ["Ash", "0x2422858F9C4480c2724A309D58Ffd7Ac8bF65396", "5.0", .33, "Images/ash.jpeg"],
-    "Jo": ["Jo", "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45", "4.7", .19, "Images/jo.jpeg"],
-    "Kendall": ["Kendall", "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45", "4.1", .16, "Images/kendall.jpeg"]
+    "Lane": ["Lane", "0x32aB205cAB2974c3Ba5fEbCe72cF480d918Ba61A", "4.3", .20, "Images/lane.jpeg"],
+    "Ash": ["Ash", "0x083AC7D5DBcbB211B5B8E8eDeDF967aE5dFB337e", "5.0", .33, "Images/ash.jpeg"],
+    "Jo": ["Jo", "0x4CDF1A6594158C05DAb3C6296Bc415AD698B4166", "4.7", .19, "Images/jo.jpeg"],
+    "Kendall": ["Kendall", "0x97E586Bd8c8B4e639dE36a690105540987B5957D", "4.1", .16, "Images/kendall.jpeg"]
 }
 
 # A list of the FinTech Finder candidates first names
